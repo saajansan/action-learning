@@ -173,3 +173,8 @@ i {
   font-size: 22px;
   line-height: 26px;;
 }
+#error-message{
+  color: red;
+  display: block;
+  margin-bottom: 10px;
+}
